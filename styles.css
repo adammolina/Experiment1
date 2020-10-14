@@ -4,16 +4,15 @@ body {
 }
 
 h1 {
-  font-family: 'Abril Fatface', cursive;
   margin: auto;
   padding: 5rem 0 5rem 0;
   text-align: left;
 }
 
 h2 {
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Open Sans', sans-serif;
   margin: auto;
-  padding: 2rem 0 2rem 0;
+  padding: 3rem 0 2rem 0;
   text-align: left;
 }
 
@@ -35,6 +34,7 @@ img {
 .logo {
   width: 10%;
   height: auto;
+  padding: 10rem 0 10rem 0;
 }
 
 .topBlock {
