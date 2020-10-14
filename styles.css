@@ -7,14 +7,14 @@ h1 {
   font-family: 'Abril Fatface', cursive;
   margin: auto;
   padding: 5rem 0 5rem 0;
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
   font-family: 'Abril Fatface', cursive;
   margin: auto;
   padding: 2rem 0 2rem 0;
-  text-align: center;
+  text-align: left;
 }
 
 p {
@@ -32,25 +32,30 @@ img {
   display: block;
 }
 
+.logo {
+  width: 10%;
+  height: auto;
+}
+
 .topBlock {
-  background-color: #C1DBCE;
+  background-color: #F3F0F2;
   padding: none;
   margin: none;
 }
 
 .middleBlock {
-  background-color: #F1ECDF;
+  background-color: #87A683;
   padding: none;
   margin: none;
 }
 
 .bottomBlock {
-  background-color: #DBD1C1;
+  background-color: #F0F2F0;
   padding: none;
   margin: none;
 }
 
 .bottomPoem {
-  text-align: center;
+  text-align: left;
   display: block;
 }
